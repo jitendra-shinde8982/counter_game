@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+app-root{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 20px;
+    border: 1px solid grey;
+    box-shadow: 20px gainsboro;
+    background-color: rgb(231, 173, 173);
+}
